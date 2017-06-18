@@ -1,6 +1,6 @@
 # Inter NIT Robotics Championship 2011 (Depricated)
 Website used for Inter NIT Robotics championship 2011 at MANIT Bhopal.
-* Website NOT live anymore, check here for [demo](https://github.com/facebook/stetho).
+* Website NOT live anymore, check here for [demo](http://mydemos.x10host.com/internitrobotics/).
 * Project NOT supported/maintained.
 
 **“If you’re not embarrassed by the first version of your product, you’ve launched too late.”** — Reid Hoffman
